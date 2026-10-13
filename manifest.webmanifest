@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "NOEL PRISM",
+  "short_name": "ノエルプリズム",
+  "description": "ノエルと遊ぶ10ステージのブロック崩し",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c0e15",
+  "theme_color": "#0c0e15",
+  "icons": [
+    {
+      "src": "app-icon-192-v1.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "app-icon-v1.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
